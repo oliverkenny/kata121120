@@ -13,7 +13,13 @@ namespace tests
             Assert.AreEqual(0, result);
         }
 
+        [Test]
+        public void GivenOne_ReturnsOne() {
+            var foo = new Foo();
+            var result = foo.Add("1");
 
+            Assert.AreEqual(1, result);
+        }
     }
 
     internal class Foo
@@ -24,7 +30,7 @@ namespace tests
 
         public int Add(string v)
         {
-            throw new System.NotImplementedException();
+            return 0;
         }
     }
 }

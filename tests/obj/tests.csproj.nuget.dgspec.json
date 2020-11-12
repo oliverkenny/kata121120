@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repos\\kata121120\\tests\\tests.csproj": {}
+    "C:\\Users\\marcello.hunt\\Source\\Repos\\kata121120\\tests\\tests.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\kata121120\\tests\\tests.csproj": {
+    "C:\\Users\\marcello.hunt\\Source\\Repos\\kata121120\\tests\\tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\kata121120\\tests\\tests.csproj",
+        "projectUniqueName": "C:\\Users\\marcello.hunt\\Source\\Repos\\kata121120\\tests\\tests.csproj",
         "projectName": "tests",
-        "projectPath": "C:\\Repos\\kata121120\\tests\\tests.csproj",
-        "packagesPath": "C:\\Users\\oliver.kenny\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\kata121120\\tests\\obj\\",
+        "projectPath": "C:\\Users\\marcello.hunt\\Source\\Repos\\kata121120\\tests\\tests.csproj",
+        "packagesPath": "C:\\Users\\marcello.hunt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marcello.hunt\\Source\\Repos\\kata121120\\tests\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\oliver.kenny\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\marcello.hunt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -70,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
