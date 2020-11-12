@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OTsn0nbvxB5xLRKF4cn3hqjfNFGlw+ceSxB0/AlZEgvg0z/NWwCYBO62zebSTeDFtzd1iScI+DVXeZn8k/5pBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Repos\\kata121120\\sck\\sck.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oliver.kenny\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\oliver.kenny\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}

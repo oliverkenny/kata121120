@@ -1,0 +1,14 @@
+C:\Repos\kata121120\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.deps.json
+C:\Repos\kata121120\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Repos\kata121120\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\Repos\kata121120\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.csprojAssemblyReference.cache
+C:\Repos\kata121120\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Repos\kata121120\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.AssemblyInfo.cs
+C:\Repos\kata121120\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Repos\kata121120\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\Repos\kata121120\ClassLibrary1\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Repos\kata121120\ClassLibrary1\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Repos\kata121120\ClassLibrary1\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Repos\kata121120\ClassLibrary1\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Repos\kata121120\ClassLibrary1\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Repos\kata121120\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Repos\kata121120\sck\bin\Debug\netcoreapp3.1\sck.exe
+C:\Repos\kata121120\sck\obj\Debug\netcoreapp3.1\sck.csprojAssemblyReference.cache
+C:\Repos\kata121120\sck\obj\Debug\netcoreapp3.1\sck.AssemblyInfoInputs.cache
+C:\Repos\kata121120\sck\obj\Debug\netcoreapp3.1\sck.AssemblyInfo.cs
+C:\Repos\kata121120\sck\obj\Debug\netcoreapp3.1\sck.csproj.CoreCompileInputs.cache
+C:\Repos\kata121120\sck\bin\Debug\netcoreapp3.1\sck.deps.json
+C:\Repos\kata121120\sck\bin\Debug\netcoreapp3.1\sck.runtimeconfig.json
+C:\Repos\kata121120\sck\bin\Debug\netcoreapp3.1\sck.runtimeconfig.dev.json
+C:\Repos\kata121120\sck\bin\Debug\netcoreapp3.1\sck.dll
+C:\Repos\kata121120\sck\bin\Debug\netcoreapp3.1\sck.pdb
+C:\Repos\kata121120\sck\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Repos\kata121120\sck\obj\Debug\netcoreapp3.1\sck.csproj.CopyComplete
+C:\Repos\kata121120\sck\obj\Debug\netcoreapp3.1\sck.dll
+C:\Repos\kata121120\sck\obj\Debug\netcoreapp3.1\sck.pdb
+C:\Repos\kata121120\sck\obj\Debug\netcoreapp3.1\sck.genruntimeconfig.cache
